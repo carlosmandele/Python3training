@@ -127,6 +127,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+mooc/
 env.bak/
 venv.bak/
 
